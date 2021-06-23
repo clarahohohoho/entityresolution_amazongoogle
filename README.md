@@ -23,3 +23,7 @@ Trialed with the TFIDF approach, referencing this [article](https://medium.com/t
 ```
 python test_tfidf.py
 ```
+
+### Results and afterthoughts:
+
+WOW. The results really ran very quickly! It took about a second for the results to be generated, and after reviewing the results the results seem pretty promising! However, would still like to try out fuzzywuzzy, which includes techniques such as Levenshtein Distance, Jaro-Winkler etc. To my next trial!
